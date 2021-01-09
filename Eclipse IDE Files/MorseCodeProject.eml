@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/MorseCodeProject"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/Tests"/>
+	</contentEntry>
+	<levels>
+		<level name="lib" value="project"/>
+		<level name="com.bluecatcode.junit:junit-4.10-extended:1.0.4" value="project"/>
+	</levels>
+</component>

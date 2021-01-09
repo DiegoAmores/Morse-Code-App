@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/MorseCodeProject/src"/>
+	<classpathentry kind="src" path="/MorseCodeProject/Tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/com.bluecatcode.junit:junit-4.10-extended:1.0.4"/>
+	<classpathentry kind="output" path="/out/production/MorseCodeProject"/>
+</classpath>
