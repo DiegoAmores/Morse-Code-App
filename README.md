@@ -11,3 +11,5 @@ An application to convert Morse Code into English. Uses methods of the MorseCode
 
 ## Graphical User Interface:
 
+## Reference:
+- Java Tree Data Structure: https://www.educative.io/blog/data-structures-trees-java
