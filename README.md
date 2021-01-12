@@ -5,7 +5,7 @@ An application to convert Morse Code into English. Uses methods of the MorseCode
 
 ## How to Run Using IntelliJ IDEA:
 - Follow the guide on how to install JavaFx for IntelliJ here: https://www.jetbrains.com/help/idea/javafx.html
-- Cloning the repo: git clone https://github.com/DiegoAmores/Morse-Code-App.git
+- Cloning the repo in terminal: git clone https://github.com/DiegoAmores/Morse-Code-App.git
 
 
 ## Graphical User Interface:
