@@ -6,5 +6,5 @@ An application to convert Morse Code into English. Uses methods of the MorseCode
 ## How to Run Using IntelliJ IDEA:
 
 
-## Grapgical User Interface:
+## Graphical User Interface:
 
