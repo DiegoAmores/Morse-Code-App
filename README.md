@@ -11,7 +11,7 @@ An application to convert Morse Code into English. Uses methods of the MorseCode
 
 
 ## Graphical User Interface:
-![Entity Relationship Diagram](https://github.com/DiegoAmores/Vinyl-Record-Database/blob/main/vinyl_erd.PNG) <br>
+![Morse Code App GUI](https://github.com/DiegoAmores/Morse-Code-App/blob/master/images/Morse_Code_App.PNG) <br>
 Initial Run of Morse Code App <br>
 
 ## Reference:
